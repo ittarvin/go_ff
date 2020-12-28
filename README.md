@@ -1,2 +1,2 @@
 # go_ff
-just for leaning go language.
+just for studying GO language.
